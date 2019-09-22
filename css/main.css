@@ -62,19 +62,21 @@ main#home h1 {
   background: #F0A202;
   border: none;
   border-radius: 5px;
+  margin-right: 10px;
 }
 
 .acctionBtn button a:visited{
-  color: #202C59;
+  color: white;
 }
 
 .acctionBtn button a{
-  color: #202C59;
+  color:white;
   text-decoration: none;
   font-weight: bold;
 }
 
 /*nav css*/
+
 ul {
   list-style-type: none;
 }
